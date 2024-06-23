@@ -13,7 +13,7 @@ public class LargestOfTwo {
 //		else
 //		{
 //			System.out.println("b is greater");
-			System.out.println("Test");
+			
 //			
 //		}
 //		
